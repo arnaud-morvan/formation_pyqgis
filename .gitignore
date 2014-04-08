@@ -1,0 +1,14 @@
+# Python scripts byte-compiled
+*.pyc
+
+# Qt resources file
+resources_rc.py
+ui_*.py
+
+# Eclipse project files
+.project
+.pydevproject
+.settings
+
+# Vim temporary files
+*.swp
